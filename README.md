@@ -1,2 +1,2 @@
-# Recursion-in-java-medium-Level-
+# Recursion-in-java-medium-Level
 These are the medium recursion programs
