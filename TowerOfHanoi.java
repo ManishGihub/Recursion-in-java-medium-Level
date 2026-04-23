@@ -1,5 +1,4 @@
 // Write a program to solve Tower Of Hanoi
-package RecursionM;
 
 public class TowerOfHanoi {
     public static void TOH(int n,String src, String helper, String dest){
