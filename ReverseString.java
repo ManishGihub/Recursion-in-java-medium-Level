@@ -1,4 +1,4 @@
-package RecursionM;
+// Write the java program to reverse the string using recursion
 
 public class ReverseString {
     public static void ReverseStr(String str,int idx){
