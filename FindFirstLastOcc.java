@@ -1,4 +1,4 @@
-package RecursionM;
+//Write a java program to find first and last occurance of character using Recursion 
 
 public class FindFirstLastOcc {
     public static int first = -1;
