@@ -18,3 +18,9 @@ public class IsArraySorted {
         System.err.println(isSorted(arr, 0));
     }
 }
+// {1,2,3}
+// true
+// {1,2,2}
+// false
+// {1,4,2}
+// false
