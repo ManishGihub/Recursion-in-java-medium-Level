@@ -18,6 +18,7 @@ public class PrintAllSubsequences {
         subSeq(str, 0, "");
     }
 }
+
 // abc
 // ab
 // ac
