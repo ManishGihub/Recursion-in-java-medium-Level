@@ -1,5 +1,3 @@
-package RecursionM;
-
 // Q) Move all x to last of the string
 public class MoveAllXToEnd {
     public static void movex(String str,int idx,int count,String newStr){
