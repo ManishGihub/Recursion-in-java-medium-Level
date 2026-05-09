@@ -1,5 +1,3 @@
-package RecursionM;
-
 // Q) Print all unique subsequences of the string
 
 import java.util.*;
