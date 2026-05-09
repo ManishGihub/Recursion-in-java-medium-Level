@@ -1,5 +1,3 @@
-package RecursionM;
-
 //Create a old mobile abcd calculator
 public class Calculator {
     public static String[] keypad = {".","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};
