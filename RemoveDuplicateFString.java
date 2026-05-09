@@ -1,5 +1,4 @@
-package RecursionM;
-
+//Write a program to remove duplicates from string
 public class RemoveDuplicateFString {
     public static boolean map[] = new boolean[26];
     public static void removeDuplicate(String str,int idx,String newStr){
