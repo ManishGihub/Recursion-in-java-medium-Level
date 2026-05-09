@@ -1,5 +1,3 @@
-package RecursionM;
-
 //Q)Check if array is sorted or not using Recursion(Strictly Increasing)
 public class IsArraySorted {
     public static boolean isSorted(int arr[],int idx){
