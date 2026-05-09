@@ -1,5 +1,3 @@
-package RecursionM;
-
 // Q) Print all subsequences of a string 
 public class PrintAllSubsequences {
     public static void subSeq(String str, int idx,String subStr){
