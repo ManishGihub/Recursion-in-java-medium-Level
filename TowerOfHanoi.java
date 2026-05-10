@@ -11,6 +11,13 @@ public class TowerOfHanoi {
         TOH(n-1, helper, src, dest);
     }
     public static void main(String[] args) {
-        TOH(1,"S", "H", "D");
+        TOH(3,"S", "H", "D");
     }
 }
+// Transfer disk 1 from S to D
+// Transfer disk 2 from S to H
+// Transfer disk 1 from D to H
+// Transfer disk 3 from S to D
+// Transfer disk 1 from H to S
+// Transfer disk 2 from H to D
+// Transfer disk 1 from S to D
