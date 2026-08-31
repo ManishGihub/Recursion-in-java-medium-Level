@@ -76,4 +76,6 @@ public class SumOfLevel{
         LOSum(root,3);
     }
 }
-// 
+// SUm of level 1 = 1
+// SUm of level 2 = 5
+// SUm of level 3 = 15
